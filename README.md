@@ -4,7 +4,7 @@ All project related material should be submitted in this repository including pr
 # Possible Projects
 You can select projects from the following links or propose your own project:
  * https://drive.google.com/open?id=1VCdn0zVdaUSYRt1zopb2AkCqKBajtipM
- * https://community.rti.com/projects
+ * https://drive.google.com/open?id=1OWVnNBvTWQfoFhLY35JDWAToLovx_sFQ
 
 # ProjectProposal
 Your proposal should include the following:
